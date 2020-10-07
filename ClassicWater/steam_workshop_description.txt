@@ -1,0 +1,38 @@
+[h1] Classic Water [/h1]
+
+This mod changes and implements water border lines to more resemble Crusader Kings II's water.
+
+[h1] Achievement Compatibility [/h1]
+[code][noparse]Achievement Compatible: ✔ 1.1.2[/noparse]
+[/code]
+
+[h1]What does this mod change in my game files?[/h1]
+[table]
+    [tr]
+        [th]File Name[/th]
+        [th]Compatible with other mods?[/th]
+    [/tr]
+    [tr]
+        [td][code][noparse] gfx\map\borders\border_water.dds [/noparse][/code][/td]
+        [td]✔[/td]
+    [/tr]
+[/table]
+
+[h1] Change Log [/h1]
+[code]
+1.0.0
+    - Initial Release
+[/code]
+
+[h1] Issues, Suggestions, and Translations [/h1]
+[list]
+[*] If you have any issues please submit an issue report on github.
+[*] If you would like to submit a translation for any missing languages please submit them through github or by linking them below.
+[*] If you have a suggestion please leave it below or on github.
+[/list]
+
+[h1] Non-Steam Users [/h1]
+If you want to download and use this mod without steam you can download it on github.
+
+[h1] Github [/h1]
+[url=https://github.com/DekuDesu/ConvertAllVassals_CKIII] Convert All Vassals Mod Github [/url]
